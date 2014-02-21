@@ -1,1 +1,3 @@
-Hello World !!
+Hello world !!
+
+Git is a system of control of versions distributed 
